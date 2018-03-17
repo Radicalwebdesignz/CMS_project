@@ -1,0 +1,30 @@
+body {
+	background-color:#2f4050;
+}
+
+.col-sm-10 {
+	background-color: #fff;
+}
+
+#navHover:hover {
+	background-color:#fff;
+	color:#2f4050;
+	font-weight: bold;
+}
+
+#navHover {
+	color:#fff;
+}
+
+#side_Menu .active {
+	background-color: #27AAE1;
+	border-radius:5px;
+}
+
+#side_Menu #navHover {
+	border-radius:5px;
+}
+
+
+
+
